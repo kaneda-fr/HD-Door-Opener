@@ -9,5 +9,5 @@ This project used an Arduino Pro Micro (5V - 16MHz) and a MCP2515 Shield Can-Bus
 * The remote is powered by teh arduino and pin 7 & 8 trigger two differebt remote buttons
 
 
-Currently installe don my 2018 Fab Bob 114
+Currently installed on my 2018 Fab Bob 114
 
