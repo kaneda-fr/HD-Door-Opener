@@ -13,5 +13,6 @@ This project used an Arduino Pro Micro (5V - 16MHz) and a MCP2515 Shield Can-Bus
 * Activate one of the turn signal (left for garage door 1 or right for door 2)
 * Activate High Beam to trigger the remote
 
-Currently installed on my 2018 Fab Bob 114
+Currently installed on my 2018 Fab Bob 114.
+I haven't tested with other models but should work with the ones with the ECU CAN-bus (11- Softail, 12- Dyna, 14- Touring, 14- XL, 15- XG Street)
 
